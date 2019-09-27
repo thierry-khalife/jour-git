@@ -1,0 +1,17 @@
+body.style{
+	
+}
+
+.myTable{
+	border: 1px solid red;
+	border-radius: 10px;
+    text-align: left;
+    color:red;
+    border-spacing: 50px 10px;
+}
+
+.myTable img{
+   width: 250px;
+   height: 250px;
+}
+
